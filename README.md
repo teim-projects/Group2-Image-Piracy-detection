@@ -10,4 +10,5 @@ Instruction :
 8) Navigate to BTP/featureextraction.py
 9) here, change all the file path names according to your local directory.
 10) once all this is done, go back to root directory 
-11) and type command - **npm run dev**
+11) in the root directory save the model as **"model.h5** - sent via email.
+12) and type command - **npm run dev**
